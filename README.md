@@ -1,16 +1,2 @@
-# assignment10
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-07-16 at 2 40 34 PM (1)](https://github.com/anupomm/ostad-assignment-module-10/assets/95094496/abce5b98-2f85-4453-aebb-f8bf7c3bd2d4)
+![WhatsApp Image 2023-07-16 at 2 40 34 PM](https://github.com/anupomm/ostad-assignment-module-10/assets/95094496/6e5f2737-fcbd-4a5f-b70d-7525de1432e8)
